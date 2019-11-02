@@ -5,11 +5,10 @@
 #define 返回        return
 #define 主函数      main
 
+/*
 #define 赋值为      =
 #define 等于        ==
 #define 小于        <
 #define 大于        >
 #define 不等于      !=
-
-#define 零          0
-#define 一          1
+*/

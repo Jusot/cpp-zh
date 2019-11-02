@@ -1,0 +1,7 @@
+#include <iostream>
+
+#ifndef 标准
+#define 标准 std
+
+#define 输出 cout
+#define 输入 cin
